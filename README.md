@@ -1,2 +1,11 @@
-# noise-audit-professional
-Professional noise audit tools for organizational judgment - https://keeprule.com
+# noise audit professional
+
+Professional noise audit tools for organizational judgment
+
+## Resources
+
+- [KeepRule](https://keeprule.com)
+- [Scenarios](https://keeprule.com/en/scenarios) | [Principles](https://keeprule.com/en/principles)
+- [Masters](https://keeprule.com/en/masters) | [Blog](https://keeprule.com/en/blog)
+
+MIT - [KeepRule](https://keeprule.com)
